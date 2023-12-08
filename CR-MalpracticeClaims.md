@@ -2,7 +2,7 @@
 
 the claims a practitioner has been involved with, the outcomes, and types of allocations.
 
-[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
+[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/CR-Practitioner.md)
 
 
 
