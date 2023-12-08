@@ -8,9 +8,7 @@ A license granted by a state to a healthcare professional to practice medicine o
 
 | **CR Object** | **CR Attribute** | **CR Description**                            | **FHIR Resource** | **FHIR Attribute**                                            |
 |---------------|------------------|-----------------------------------------------|-------------------|---------------------------------------------------------------|
-| State License | ID               | Identifier of this specific License Instance  | Practitioner      | "Qualification.Identifier.value                               |
-|               |                  |                                               |                   | Qualification.Identifier.period                               |
-|               |                  |                                               |                   | Qualification.Identifier.assigner (Organization)              |
+| State License | ID               | Identifier of this specific License Instance  | Practitioner      | Qualification.Identifier                               |
 | State License | Status           | The current status of the License             | Practitioner      | Qualification.practitioner-qualification.status               |
 | State License | ValidLocation    | Where the License if valid (USPS state)       | Practitioner      | Qualification.practitioner-qualification.whereValid           |
 | State License | Type             | The type of License                           | Practitioner      | Qualification.code                                            |
