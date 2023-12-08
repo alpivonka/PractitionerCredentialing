@@ -1,5 +1,7 @@
 **Education History**
 
+Education history of the Practitioner
+
 [Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
 
 
