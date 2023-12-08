@@ -2,7 +2,7 @@
 
 Current proof malpractice insurance coverage
 
-[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
+[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/CR-Practitioner.md)
 
 
 
