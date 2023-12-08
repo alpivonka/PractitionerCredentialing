@@ -1,5 +1,7 @@
 **Work History**
 
+(Five-year window) The record of a healthcare professional's employment history, including the dates of employment, the positions held, and the duties performed.
+
 [Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
 
 
