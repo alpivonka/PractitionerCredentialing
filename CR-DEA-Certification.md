@@ -2,7 +2,7 @@
 
 A certification granted by the U.S. Drug Enforcement Administration (DEA) to a healthcare professional who is authorized to prescribe controlled substances.
 
-[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
+[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/CR-Practitioner.md)
 
 
 | **CR Object** | **CR Attribute**   | **CR Description**                                                                                                                                      | **FHIR Resource** | **FHIR Attribute**                                        |
