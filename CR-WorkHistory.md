@@ -2,7 +2,7 @@
 
 (Five-year window) The record of a healthcare professional's employment history, including the dates of employment, the positions held, and the duties performed.
 
-[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
+[Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/CR-Practitioner.md)
 
 
 | **CR Object** | **CR Attribute** | **CR Description**                                        | **FHIR Resource** | **FHIR Attribute**                         |
