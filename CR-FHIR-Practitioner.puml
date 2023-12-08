@@ -1,0 +1,35 @@
+@startuml
+class Practitioner {
+}
+
+class Sanction {
+}
+
+class PractitionerRole {
+}
+
+class MalpracticeClaim {
+}
+
+class Claim {
+}
+
+class Coverage {
+}
+
+class MalpracticeCoverage {
+}
+
+Practitioner *-- Sanction : subject
+PractitionerRole *-- Sanction : subject
+Practitioner *- PractitionerRole
+MalpracticeClaim --* Practitioner : provider
+Claim <|-- MalpracticeClaim : isA
+Coverage <|-- MalpracticeCoverage : isA
+Practitioner *-- MalpracticeCoverage : policyHolder
+
+Flag <|- Sanction : isA
+
+
+
+@enduml
