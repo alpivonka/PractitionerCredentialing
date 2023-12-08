@@ -1,5 +1,7 @@
 **State License**
 
+A license granted by a state to a healthcare professional to practice medicine or another healthcare profession within that state.
+
 [Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
 
 
