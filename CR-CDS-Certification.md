@@ -1,5 +1,7 @@
 **CDS-Certification**
 
+A certification granted by a state to a healthcare professional who is authorized to dispense controlled substances.
+
 [Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
 
 | **CR Object** | **CR Attribute**   | **CR Description**                                                                                                     | **FHIR Resource** | **FHIR Attribute**                                        |
