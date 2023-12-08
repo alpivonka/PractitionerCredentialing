@@ -1,5 +1,7 @@
 **Malpractice Coverage**
 
+Current proof malpractice insurance coverage
+
 [Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
 
 
