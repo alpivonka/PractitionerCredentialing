@@ -1,5 +1,7 @@
 **DEA-Certification**
 
+A certification granted by the U.S. Drug Enforcement Administration (DEA) to a healthcare professional who is authorized to prescribe controlled substances.
+
 [Back to Practitioner Credentialing](https://github.com/alpivonka/PractitionerCredentialing/blob/main/README.md)
 
 
