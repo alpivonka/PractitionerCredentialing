@@ -1,4 +1,4 @@
-# PractitionerCredentialing
+# Practitioner Credentialing
 Below represents a high level mapping for the context of Practitioner Credentialing Logical Domain model.
 
 I am working through the mapping and am needing for insights/recommendations.
